@@ -6,10 +6,10 @@ import SearchFilter from './searchFilter'
 const Home = () => {
   return (
     <>
-      <div className='bg-bgColor h-screen w-screen py-7 px-40'>
+      <div className='bg-bgColor h-50 w-screen py-7 px-10'>
         <Header />
       </div>
-      <div className='w-screen py-7 px-40'>
+      <div className='w-screen py-7 px-10'>
         <SearchFilter />
       </div>
       <div>
